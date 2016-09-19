@@ -1,7 +1,4 @@
 test commit
-<<<<<<< HEAD
-dcs
-=======
 dcs
 3eme essaie de commit (apprendre le pull)
 
