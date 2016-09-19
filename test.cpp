@@ -4,3 +4,6 @@ dcs
 
 // test newbranch
 je suis sur branch : newbranch
+
+// branch 2
+Nouvelle implementation sur branch
